@@ -1,4 +1,4 @@
-To start Server run  command: spring-boot:run  
+To start Server run  command: mvn spring-boot:run  
 
 Server will be on port: 
 localhost:8080
